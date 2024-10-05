@@ -1,0 +1,10 @@
+n1=40
+n2=35
+print(n1-n2)
+n3=55
+n4=65
+print(n3+n4)
+n5=120
+n6=420
+print(n6//n5)
+print(n5*n3)
